@@ -17,4 +17,8 @@ Avant de commencer le développement, il est crucial d’identifier et de docume
 
 Cette phase consiste à élaborer l’architecture du logiciel, les bases de données et les interfaces utilisateur. Les concepteurs utilisent souvent des maquettes et des diagrammes pour structurer le projet avant le codage.
 
+1.3 Développement
+
+Les développeurs écrivent le code source du logiciel en utilisant différents langages de programmation (Python, Java, C++, etc.). Cette étape comprend aussi l’intégration des bases de données et la mise en place des fonctionnalités principales.
+
 
