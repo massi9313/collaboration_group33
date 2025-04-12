@@ -1,3 +1,7 @@
+Introduction
+
+Le développement d’un logiciel suit un ensemble d’étapes structuré appelé cycle de vie du logiciel. Ce processus garantit que le produit final répond aux besoins des utilisateurs et fonctionne efficacement. Ce projet explore ces étapes et met en lumière les logiciels d’application, qui sont des outils essentiels dans notre quotidien.
+
 1. Le Cycle de Vie du Logiciel
 
 Le cycle de vie du logiciel est divisé en plusieurs phases essentielles qui assurent la conception, le développement et la maintenance d’un programme informatique. Il existe différents modèles de cycle de vie (en cascade, agile, etc.), mais la plupart suivent six étapes fondamentales :
