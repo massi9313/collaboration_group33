@@ -1,1 +1,4 @@
+Introduction
+
+Le développement d’un logiciel suit un ensemble d’étapes structuré appelé cycle de vie du logiciel. Ce processus garantit que le produit final répond aux besoins des utilisateurs et fonctionne efficacement. Ce projet explore ces étapes et met en lumière les logiciels d’application, qui sont des outils essentiels dans notre quotidien.
 
