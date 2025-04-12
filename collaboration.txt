@@ -21,4 +21,18 @@ Cette phase consiste à élaborer l’architecture du logiciel, les bases de don
 
 Les développeurs écrivent le code source du logiciel en utilisant différents langages de programmation (Python, Java, C++, etc.). Cette étape comprend aussi l’intégration des bases de données et la mise en place des fonctionnalités principales.
 
+1.4 Tests
+
+Le logiciel est soumis à divers tests pour détecter et corriger les erreurs. Ces tests incluent :
+
+Tests unitaires (vérification des composants individuels)
+
+Tests d’intégration (vérification des interactions entre modules)
+
+Tests fonctionnels (évaluation de l’expérience utilisateur)
+
+1.5 Déploiement
+
+Une fois validé, le logiciel est installé sur les serveurs ou les appareils des utilisateurs. Cela peut inclure une formation des utilisateurs et une documentation détaillée.
+
 
