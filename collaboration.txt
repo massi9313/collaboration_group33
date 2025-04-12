@@ -34,5 +34,28 @@ Tests fonctionnels (évaluation de l’expérience utilisateur)
 1.5 Déploiement
 
 Une fois validé, le logiciel est installé sur les serveurs ou les appareils des utilisateurs. Cela peut inclure une formation des utilisateurs et une documentation détaillée.
+1.6 Maintenance et mises à jour
+
+Après le déploiement, le logiciel doit être mis à jour régulièrement pour corriger les bugs, ajouter de nouvelles fonctionnalités et s’adapter aux évolutions technologiques.
+
+2. Les Logiciels d’Application
+
+Un logiciel d’application est un programme conçu pour exécuter des tâches spécifiques pour l’utilisateur final. Contrairement aux logiciels système (ex : Windows, Linux), les logiciels d’application permettent d’effectuer des actions précises comme écrire un document, communiquer ou gérer une entreprise.
+
+2.1 Exemples de logiciels d’application
+
+Bureautique : Microsoft Office, Google Docs
+
+Multimédia : Adobe Photoshop, VLC Media Player
+
+Gestion : SAP, Sage
+
+Communication : Zoom, WhatsApp
+
+Divertissement : Netflix, jeux vidéo
+
+Conclusion
+
+Le cycle de vie du logiciel est un processus essentiel garantissant la qualité et la fiabilité d’un programme. Quant aux logiciels d’application, ils facilitent notre quotidien en nous permettant d’effectuer diverses tâches de manière efficace. Comprendre ces notions est crucial pour les développeurs et les utilisateurs souhaitant optimiser leur utilisation des outils numériques.
 
 
