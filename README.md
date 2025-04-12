@@ -1,7 +1,6 @@
-# collaboration_group33
+# collaboration_Groupe 33
 bonjour a tous 
 je me presente 
-# Collaboration Groupe 33
 
 ## Membres :
 - Massinissa Mameri
