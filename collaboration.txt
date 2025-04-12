@@ -6,3 +6,7 @@ Le cycle de vie du logiciel est divisé en plusieurs phases essentielles qui ass
 
 Avant de commencer le développement, il est crucial d’identifier et de documenter les attentes des utilisateurs. Cela inclut la rédaction d’un cahier des charges qui définit les fonctionnalités et les contraintes du projet.
 
+1.2 Conception
+
+Cette phase consiste à élaborer l’architecture du logiciel, les bases de données et les interfaces utilisateur. Les concepteurs utilisent souvent des maquettes et des diagrammes pour structurer le projet avant le codage.
+
