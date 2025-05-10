@@ -59,3 +59,7 @@ Conclusion
 Le cycle de vie du logiciel est un processus essentiel garantissant la qualité et la fiabilité d’un programme. Quant aux logiciels d’application, ils facilitent notre quotidien en nous permettant d’effectuer diverses tâches de manière efficace. Comprendre ces notions est crucial pour les développeurs et les utilisateurs souhaitant optimiser leur utilisation des outils numériques.
 
 
+1.2 Conception
+
+Cette phase consiste à élaborer l’architecture du logiciel, les bases de données et les interfaces utilisateur. Les concepteurs utilisent souvent des maquettes et des diagrammes pour structurer le projet avant le codage.
+
